@@ -95,6 +95,3 @@ bin2frac_aux xs = 1 / fromIntegral(partfrac_bin_dec( reverse xs))
 partfrac_bin_dec :: [Int] -> Int
 partfrac_bin_dec [] = 0
 partfrac_bin_dec (x:xs) = (x * 2^(length xs + 1)) + partfrac_bin_dec xs
-
-exibe_double :: Int -> Int -> Double
-exibe_double a b = read ((show a) ++ "." ++ (show b))
