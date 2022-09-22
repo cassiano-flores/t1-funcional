@@ -1,13 +1,10 @@
-# Trabalho 1(2022/2)
-# Disciplina: Programação Funcional
-# Objetivo:
-O objetivo deste trabalho é consolidar o conhecimento sobre conceitos e construção de funções recursivas em Haskell.
+# Programação Funcional - Trabalho 1(2022/2)
 
 # Integrantes:
-Alison Schemitt
-Cassiano Flores
-Leonardo Cruz
-Mateus de Carvalho
+Alison Schemitt , Cassiano Flores , Leonardo Cruz , Mateus de Carvalho
+
+# Objetivo:
+O objetivo deste trabalho é consolidar o conhecimento sobre conceitos e construção de funções recursivas em Haskell.
 
 # Enunciado:
 Estamos  interessados na  implementação  de  diversas  funções  de  manipulação  de “valores  binários”.Em  todos  os exercícios que lidam com representação em binário, considere queum número binário éarmazenado comouma lista de zeros e uns. Utilize as listas doHaskell nestas soluções: [Int].Para cada exercício apresente também um exemplo de  chamada  da  função  implementada.Cuidado  para a  interpretação  da  codificação  binária  solicitada  em  cada exercício, sugere-se fortemente que sejam revisados os conceitos de representaçãonumérica em binários antes de realizar a atividade!
