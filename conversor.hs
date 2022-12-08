@@ -1,8 +1,3 @@
-------------------------------------------------------------------------------------------------------
---  Disciplina: Programação Funcional
---  Integrantes: Alison Schemitt, Cassiano Flores, Leonardo Cruz, Mateus de Carvalho
-------------------------------------------------------------------------------------------------------
-
 
 --Funcao 1
 bin2dec :: [Int] -> Int
